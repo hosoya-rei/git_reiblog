@@ -1,0 +1,9 @@
+<div class="hey">
+<p>POST</p>
+  <%= form_with model: @tweet do |f| %>
+  
+  <%= f.text_area :text, class: 'teki' %>
+  <div><%= f.submit "SEND", class: 'bo' %></div>
+  
+  <% end %>
+</div>

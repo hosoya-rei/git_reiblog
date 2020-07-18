@@ -1,0 +1,125 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.logo a {
+  text-decoration: none;
+  color: #005;
+  font-size: 45px;
+  line-height: 50px;
+  padding-left: 600px;
+  letter-spacing: 5px;
+}
+.post {
+  text-decoration: none;
+  color: #005;
+  font-size: 25px;
+  line-height: 50px;
+  letter-spacing: 5px;
+  margin: 0 20px;
+}
+.main {
+  height: calc(100vh - 50px)
+}
+.midasi p {
+  color: #005;
+  font-size: 50px;
+  margin-top: 100px;
+  text-align: center;
+  padding: 50px 0 0;
+}
+.login-form {
+  height: 500px;
+  width: 400px;
+  margin-left: 500px;
+  padding-top: 30px;
+}
+.field {
+  font-size: 20px;
+}
+.rann {
+  width: 100%;
+  border: none;
+  border-bottom: 5px solid #005;
+}
+.actions .submit {
+  background-color: #fff;
+  border: none;
+  border: 3px solid #005;
+  width: 200px;
+  height: 30px;
+  margin: 15px 100px;
+}
+.messe {
+  text-decoration: none;
+  font-size: 15px;
+  color: #005;
+}
+.text {
+  height: 300px;
+  width: 700px;
+  border: 1px solid #005;
+  margin: 30px 360px;
+  box-shadow: 0 0 3px #005;
+  border-radius: 10px;
+}
+.kakutoko {
+  padding: 5px;
+}
+.osutoko {
+  display: flex;
+  margin-top: 230px;
+  justify-content: center;
+}
+.osu{
+  text-decoration: none;
+  color: #005;
+  font-size: 20px;
+  margin: 0 15px;
+}
+/*new画面*/
+.hey {
+  height: 300px;
+  width: 700px;
+  border: 1px solid #005;
+  margin: 30px 360px;
+  box-shadow: 0 0 3px #005;
+  border-radius: 10px;
+  margin-top: 100px;
+}
+.hey p {
+  text-align: center;
+  font-size: 30px;
+  color: #005;
+}
+.teki {
+  height: 150px;
+  width: 650px;
+  border: none;
+  border-bottom: 5px solid #005;
+  margin: 0 25px;
+}
+.bo {
+  border: none;
+  border: 1px solid #005;
+  box-shadow: 0 0 3px #005;
+  height: 30px;
+  width: 60px;
+  background-color: #fff;
+  font-size: 20px;
+  margin: 13px 320px;
+}
+ .pagination {
+  display: flex;
+  list-style: none;
+  font-size: 30px;
+  margin: 0 600px;
+  justify-content: space-evenly;
+}
+
