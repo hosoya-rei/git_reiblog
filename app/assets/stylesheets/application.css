@@ -70,11 +70,13 @@
   border-radius: 10px;
 }
 .kakutoko {
+  height: 350px;
+  width: 850px;
   padding: 5px;
 }
 .osutoko {
   display: flex;
-  margin-top: 320px;
+  margin-top: 20px;
   justify-content: center;
 }
 .osu{
