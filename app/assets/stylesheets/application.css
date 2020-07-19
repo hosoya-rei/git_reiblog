@@ -71,8 +71,9 @@
 }
 .kakutoko {
   height: 345px;
-  width: 850px;
+  width: 900px;
   padding: 5px;
+  overflow: scroll;
 }
 .osutoko {
   display: flex;
