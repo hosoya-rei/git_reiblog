@@ -62,10 +62,10 @@
   color: #005;
 }
 .text {
-  height: 300px;
-  width: 700px;
+  height: 400px;
+  width: 900px;
   border: 1px solid #005;
-  margin: 30px 360px;
+  margin: 30px 273px;
   box-shadow: 0 0 3px #005;
   border-radius: 10px;
 }
@@ -74,7 +74,7 @@
 }
 .osutoko {
   display: flex;
-  margin-top: 230px;
+  margin-top: 320px;
   justify-content: center;
 }
 .osu{
